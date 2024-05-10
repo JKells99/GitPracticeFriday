@@ -1,3 +1,5 @@
+package com.keyin;
+
 public class Animal {
 
     private String name;
